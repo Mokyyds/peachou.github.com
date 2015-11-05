@@ -6,18 +6,18 @@ paginate_path: page/:num
 
 blog:
     name:                                                Peach Chou
-    description:                                         To the time to life
+    description:                                         Time waits for no one
     title:                                               Peach Chou - Developer
-    url:                                                 http://www.baidu.com/
-    duoshuo:                                             2dxgujun
-    tongji:                                              2dxgujun
+    url:                                                 https://princechou.github.io/
+    duoshuo:                                             Peach
+    tongji:                                              Peach
     qiniu:                                               # 七牛云地址
 author:
     name:                                                PeachChou
     email:                                               zhoutaolei@gmail.com
-    weibo:                                               http://weibo.com/2dxgujun
+    weibo:                                               http://weibo.com/zhoutaolei
     google-plus:                                         https://plus.google.com/113657331852211913645
-    github:                                              https://github.com/2dxgujun
+    github:                                              https://github.com/PrinceChou
     logo:                                                /res/img/avatar.jpg
     douban:
         name:                                            db2dxgujun
