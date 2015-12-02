@@ -2,12 +2,12 @@
 layout: post
 title: Hello Git Blog
 category: Life
-date: 2014-08-13
+date: 2015-12-02
 ---
 
-![Jekyll](/res/img/jekyll.png)
-今天2014年8月13日，我的Github博客搭建完成了，纪念一下。
+![Jekyll](/res/img/jeky.png)
+今天2015年12月02日，我的Github博客搭建完成了，纪念一下。
 
-开学马上就要大三了，新学期要更加努力的学习o(∩_∩)o ，希望自己在生活和学习上都能提高水平。
+今年马上就要结束了，目前需要尽快的把手头的事处理好 ，规划下一年奋斗目标。
 
-最后希望金科App社团能够发展强大oh yeah…
+以后我会在这里分享一些生活、学习、工作方面的文章。
