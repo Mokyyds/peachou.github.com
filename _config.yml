@@ -3,21 +3,21 @@ highlighter: pygments
 permalink: post/:year/:month/:day/:title.html
 paginate: 8
 paginate_path: page/:num
-
+gems: [jekyll-paginate]
 blog:
-    name:                                                Peach Chou
-    description:                                         Be happy. No worries. just smile
-    title:                                               Peach Chou - Developer
-    url:                                                 http://baidu.com/
+    name:                                                Jun Gu
+    description:                                         To the time to life
+    title:                                               Jun Gu - Developer
+    url:                                                 http://2dxgujun.com/
     duoshuo:                                             2dxgujun
     tongji:                                              2dxgujun
     qiniu:                                               # 七牛云地址
 author:
-    name:                                                PeachChou
-    email:                                               zhoutaolei@gmail.com
-    weibo:                                               weibo.com/zhoutaolei
+    name:                                                JunGu
+    email:                                               2dxgujun@gmail.com
+    weibo:                                               http://weibo.com/2dxgujun
     google-plus:                                         https://plus.google.com/113657331852211913645
-    github:                                              https://github.com/PrinceChou
+    github:                                              https://github.com/2dxgujun
     logo:                                                /res/img/avatar.jpg
     douban:
         name:                                            db2dxgujun

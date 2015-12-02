@@ -1,4 +1,4 @@
-#princechou.github.io
+#2xgujun.github.com
 
 Personal blog powered by [Jekyll](http://jekyllrb.com/) & [Github pages](http://pages.github.com/).
 
