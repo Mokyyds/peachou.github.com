@@ -6,17 +6,17 @@ paginate_path: page/:num
 gems: [jekyll-paginate]
 blog:
     name:                                                Peach
-    description:                                         To the time to life
+    description:                                         Constant dropping wears away a stone.
     title:                                               Peach - Developer
-    url:                                                 http://zhaoxiaoying.com/
+    url:                                                 http://peachou.com/
     duoshuo:                                             Peach
-    tongji:                                              2dxgujun
+    tongji:                                              peach
     qiniu:                                               # 七牛云地址
 author:
     name:                                                Peach
     email:                                               zhoutaolei@gmail.com
     weibo:                                               http://weibo.com/zhoutaolei
-    google-plus:                                         https://plus.google.com/113657331852211913645
+    google-plus:                                         https://plus.google.com/
     github:                                              https://github.com/PrinceChou
     logo:                                                /res/img/avatar.jpg
     douban:
