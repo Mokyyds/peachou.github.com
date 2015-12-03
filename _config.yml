@@ -9,7 +9,7 @@ blog:
     description:                                         A merry heart goes all the way.
     title:                                               Peach - Developer
     url:                                                 http://peachou.com/
-    duoshuo:                                             Peach
+    duoshuo:                                             peach
     tongji:                                              peach
     qiniu:                                               # 七牛云地址
 author:
