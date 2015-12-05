@@ -166,3 +166,11 @@ Android开发者网址导航，分为官网、资源、开源导航、博客、�
 - [单元测试robotium](http://www.robotium.cn/)
 
 - [代码质量管理sonar](http://sonar.oschina.net/)
+
+
+> 未完待续
+<br/>
+
+- - -
+*本文出自[peach](/)，扫描以下二维码即可关注订阅号。*
+![Jekyll](/res/img/two.jpg)
