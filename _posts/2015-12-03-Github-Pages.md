@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如何搭建一个独立博客——Github Pages与 jekyll 教程
+title: 如何搭建一个独立博客——Github Pages教程
 category: Web
 date: 2015-12-04
 ---
@@ -36,6 +36,10 @@ date: 2015-12-04
 ---选择主题并发布
 　　	![otto design diagram](http://ww2.sinaimg.cn/mw690/a0031a9fjw1eyngkpj1e8j20of0b20tt.jpg)
 
+
+
+
+> 未完待续
 <br/>
 
 - - -
